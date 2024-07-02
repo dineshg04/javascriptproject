@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.moves{
+    background-color: transparent;
+    border: 5px solid;
+    border-color: aliceblue;
+    border-radius: 100px;
+    
+
+}
+.img{
+    height: 100px;
+    padding: 20px;
+    
+}
+.reset-but{
+    padding: 10px;
+    font-size: 15px;
+    background-color: transparent;
+    color: aliceblue;
+    border: 3px solid;
+    border-radius: 10px;
+}
